@@ -60,7 +60,7 @@ public class GameManager : MonoBehaviour
         if (aTreePanel.activeSelf == true)
         {
             
-            treeObj.transform.Rotate(new Vector3(0, 0.1f, 0));
+            treeObj.transform.Rotate(new Vector3(0, 0.5f, 0));
 
             if (SelectedChild() != null)
             {
@@ -111,10 +111,6 @@ public class GameManager : MonoBehaviour
             tree1 = Instantiate(trees[a]);
             NewButtonPosition(a, new Vector3(0, -20, 0), tree1);
 
-            //buttons[a].transform.localPosition = new Vector3(0, 0, 0);
-            //tree.transform.parent = buttons[a].transform;
-            //tree.transform.localPosition = new Vector3(0, 0, -100f);
-            //SetLayer(tree.transform, 5);
 
             for (int i = 0; i< (trees.Length / 2); i++)
             {

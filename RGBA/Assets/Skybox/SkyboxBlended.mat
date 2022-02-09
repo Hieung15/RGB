@@ -22,11 +22,11 @@ Material:
     - _BackTex:
         m_Texture: {fileID: 2800000, guid: ed2569600581c474fb9ade60eaa15ff7, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 203.85555, y: 0}
+        m_Offset: {x: 207.61674, y: 0}
     - _BackTex2:
         m_Texture: {fileID: 2800000, guid: 683f6a0ffd47c0b4c87a5237f090810d, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 7.39766, y: 0}
+        m_Offset: {x: 7.942983, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -58,19 +58,19 @@ Material:
     - _FrontTex:
         m_Texture: {fileID: 2800000, guid: ed2569600581c474fb9ade60eaa15ff7, type: 3}
         m_Scale: {x: 1.41, y: 1.84}
-        m_Offset: {x: 203.85555, y: 0.7}
+        m_Offset: {x: 207.61674, y: 0.7}
     - _FrontTex2:
         m_Texture: {fileID: 2800000, guid: 683f6a0ffd47c0b4c87a5237f090810d, type: 3}
         m_Scale: {x: 2.75, y: 2.04}
-        m_Offset: {x: 7.39766, y: 0}
+        m_Offset: {x: 7.942983, y: 0}
     - _LeftTex:
         m_Texture: {fileID: 2800000, guid: ed2569600581c474fb9ade60eaa15ff7, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 203.85555, y: 0}
+        m_Offset: {x: 207.61674, y: 0}
     - _LeftTex2:
         m_Texture: {fileID: 2800000, guid: 683f6a0ffd47c0b4c87a5237f090810d, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 7.39766, y: 0}
+        m_Offset: {x: 7.942983, y: 0}
     - _MainTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -90,11 +90,11 @@ Material:
     - _RightTex:
         m_Texture: {fileID: 2800000, guid: ed2569600581c474fb9ade60eaa15ff7, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 203.85555, y: 0}
+        m_Offset: {x: 207.61674, y: 0}
     - _RightTex2:
         m_Texture: {fileID: 2800000, guid: 683f6a0ffd47c0b4c87a5237f090810d, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 7.39766, y: 0}
+        m_Offset: {x: 7.942983, y: 0}
     - _UpTex:
         m_Texture: {fileID: 2800000, guid: ed2569600581c474fb9ade60eaa15ff7, type: 3}
         m_Scale: {x: 1, y: 1}
